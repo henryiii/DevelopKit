@@ -45,9 +45,16 @@ The following setup is based on the Hackathon setup [here](https://gitlab.cern.c
 ## Quick start
 To get started, get the tools with:
 
+From within CERN:
 ~~~
 git clone ssh://git@gitlab.cern.ch:7999/lhcb/upgrade-hackathon-setup.git hackathon
 ~~~
+
+externally from CERN:
+~~~
+git clone https://gitlab.cern.ch/lhcb/upgrade-hackathon-setup.git hackathon
+~~~
+
 {: .input}
 
 > ## Using your ssh key inside the container
